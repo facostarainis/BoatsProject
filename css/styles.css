@@ -59,7 +59,7 @@ li {
 blockquote.pull-quote {
   font-size: 1.8rem;              
   font-weight: 800;
-  color: red;
+  color: orange;
   /* margin: 70px -80px; */
 }
 
@@ -265,7 +265,7 @@ figure.image img {
     font-size: 1.563rem;
     font-weight: 800;
     margin: 50px 0px;
-    color: red;
+    color: orange;
   }
 
   figure.sticky {
